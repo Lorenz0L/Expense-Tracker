@@ -1,6 +1,6 @@
 ﻿# Personal Expense Tracker
 
-A sleek Streamlit app to track and analyze your expenses.
+Streamlit app to track and analyze your expenses.
 
 ## Features
 - Add expenses with date, amount, category, and description
@@ -35,4 +35,5 @@ streamlit run app.py
 ## Note
 Gmail auto-import feature is implemented locally but not included in this public version for security reasons.
 Reach out for more information!
+
 
